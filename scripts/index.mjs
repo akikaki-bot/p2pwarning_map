@@ -1,5 +1,6 @@
 
 import { SubDivisionAndCityNames, SubDivisionsLatitude, SubDivisionsLongitude } from "./components/draw.mjs"
+import { CheckSubdivisionLatLot } from "./components/check.mjs";
 
 globalThis.SubDivisionAndCityNames = SubDivisionAndCityNames;
 

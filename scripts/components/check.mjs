@@ -1,3 +1,4 @@
+import { SubDivisionAndCityNames, SubDivisionsLatitude, SubDivisionsLongitude } from "./draw.mjs"
 
 export async function CheckSubdivisionLatLot() {
 
